@@ -1,6 +1,6 @@
 # TDP-codes
 TDP-code example dataset: Flower17
-We show experimental settings of three partitions (two tasks, i.e., two scales of inputs for extracting VGG-19 features) on Flower17 datasets. 
+We show experimental settings of three partitions (two tasks, i.e., two scales as inputs for extracting VGG-19 features) on Flower17 datasets. 
 Due to that the extracted deep CNN features are large, we can not upload them through github; authors can extract features by themselves, or contact me, then I will send you the extracted features through other ways. 
 
 
